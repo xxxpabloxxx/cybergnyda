@@ -1,0 +1,10 @@
+Package: com.sam.yandexmusicfree
+Name: Yandex Music Free
+Author: -=sam=-
+Description: Функционирование приложения без подписки. Данный патч позволит использовать Я.Музыку безвозмездно, а также добавит историю прослушивания в «Радио».
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: -=sam=-
+Section: Tweaks
+Version: 1.0
+

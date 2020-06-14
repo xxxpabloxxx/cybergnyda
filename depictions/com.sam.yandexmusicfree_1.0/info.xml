@@ -1,0 +1,20 @@
+<packageInfo>
+    <bundleId>com.sam.yandexmusicfree</bundleId>
+    <name>Yandex Music Free</name>
+    <version>1.0</version>
+    <descriptions>
+        <description>
+            For Yandex.Music App (only ver. 476, rolling back using Appstore++)
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>12.0</miniOS>
+        <maxiOS>13.5</maxiOS>
+    </compatibility>
+    <changelog>
+        <change>
+            <changeVersion>V1.0</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
