@@ -1,0 +1,8 @@
+Origin: CyberGnyda Repo
+Label: https://cybergnyda.site/repo
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: Yandex.Music hack and more
